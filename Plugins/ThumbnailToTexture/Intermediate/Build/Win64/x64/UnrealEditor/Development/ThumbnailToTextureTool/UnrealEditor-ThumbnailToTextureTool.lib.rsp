@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThumbnailToTextureTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Module.ThumbnailToTextureTool.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\ThumbnailToTextureSettings.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\ThumbnailToTextureTool.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Default.rc2.res"
+/OUT:"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\UnrealEditor-ThumbnailToTextureTool.lib"

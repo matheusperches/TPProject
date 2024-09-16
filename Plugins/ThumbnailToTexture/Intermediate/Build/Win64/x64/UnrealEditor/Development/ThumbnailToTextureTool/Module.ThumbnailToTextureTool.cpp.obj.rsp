@@ -1,0 +1,51 @@
+"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Module.ThumbnailToTextureTool.cpp"
+/FI"C:\Users\mathe\Documents\Unreal Projects\TPProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Definitions.ThumbnailToTextureTool.h"
+/Yu"C:\Users\mathe\Documents\Unreal Projects\TPProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\mathe\Documents\Unreal Projects\TPProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Module.ThumbnailToTextureTool.cpp.obj"
+/sourceDependencies "C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\Module.ThumbnailToTextureTool.cpp.dep.json"
+@"C:\Users\mathe\Documents\Unreal Projects\TPProject\Plugins\ThumbnailToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThumbnailToTextureTool\ThumbnailToTextureTool.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

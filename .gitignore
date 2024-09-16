@@ -1,0 +1,10 @@
+/* 
+!/Content
+/Content/*
+!/Content/Blueprints
+
+!TPProject.uproject
+!README.md
+!.gitignore
+!Binaries
+!Plugins
